@@ -17,7 +17,7 @@ if(sum+mul==n){
 printf("special number");
 }
 else{
-printf("not");
+printf("not a special number");
 }
 }
 return 0;
